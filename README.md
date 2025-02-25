@@ -4,7 +4,17 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Eletsor" target="_blank">Mikhail</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> 
-
+<div id="badges" align="center">
+  <a href="https://github.com/user-attachments/assets/81942355-48e5-4824-8baa-30a65f52f06a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://okeygeek.ru/wp-content/uploads/2020/08/telegram-2048x2048.png" height="32 alt="TG Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 <!--
